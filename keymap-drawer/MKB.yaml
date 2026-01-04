@@ -354,3 +354,8 @@ layers:
   - END
   - A
   - B
+combos:
+- p: [19, 20]
+  k: LANGUAGE 1
+- p: [15, 16]
+  k: LANGUAGE 2
