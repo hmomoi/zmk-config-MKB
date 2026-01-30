@@ -14,7 +14,7 @@
 #define SCROLL 4
 #define BT 5
 
-&mt {f
+&mt {
     flavor = "balanced";
     tapping-term-ms = <280>;
     quick-tap-ms = <175>;
