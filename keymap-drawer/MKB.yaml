@@ -9,7 +9,7 @@ layers:
   - T
   - Y
   - U
-  - I
+  - {t: I, h: Fnc}
   - O
   - P
   - BACKSPACE
@@ -68,7 +68,7 @@ layers:
   - {t: ▽, type: trans}
   - F1
   - F2
-  - F3
+  - {t: F3, type: held}
   - F4
   - F5
   - {t: ▽, type: trans}
@@ -100,7 +100,7 @@ layers:
   - {t: ▽, type: trans}
   - LALT
   - ENTER
-  - {t: ENTER, type: held}
+  - ENTER
   - ENTER
   - ENTER
   - {t: ▽, type: trans}
