@@ -92,7 +92,7 @@
             bindings = <
 &trans    &trans  &trans     &trans    &trans     &trans      &trans  &trans    &trans     &trans     &trans     &trans
 &trans    &trans  &trans     &trans    &trans     &trans      &trans  &mkp MB1  &mkp MB3   &mkp MB2   &trans     &trans
-&trans    &trans  &trans     &trans    &trans     &trans      &trans  &trans    &trans     &trans     &trans     &trans
+&trans    &trans  &trans     &trans    &trans     &trans      &trans  &mkp MB4  &trans     &mkp MB5   &trans     &trans
 &trans    &trans  &trans               &trans     &trans      &trans  &trans               &trans     &trans     &trans
 &kp LEFT  &kp UP  &kp SPACE  &kp DOWN  &kp RIGHT                      &kp HOME  &kp PG_UP  &kp ENTER  &kp PG_DN  &kp END
                              &kp A                                              &kp B
@@ -108,7 +108,7 @@
             bindings = <
 &trans    &trans  &trans     &trans    &trans     &trans      &trans  &trans    &trans     &trans     &trans     &trans
 &trans    &trans  &trans     &trans    &trans     &trans      &trans  &mkp MB1  &mkp MB3   &mkp MB2   &trans     &trans
-&trans    &trans  &trans     &trans    &trans     &trans      &trans  &mkp MB4  &trans     &mkp MB5   &trans     &trans
+&trans    &trans  &trans     &trans    &trans     &trans      &trans  &trans    &trans     &trans     &trans     &trans
 &trans    &trans  &trans               &trans     &trans      &trans  &trans               &trans     &trans     &trans
 &kp LEFT  &kp UP  &kp SPACE  &kp DOWN  &kp RIGHT                      &kp HOME  &kp PG_UP  &kp ENTER  &kp PG_DN  &kp END
                              &kp A                                              &kp B
